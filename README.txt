@@ -1,5 +1,5 @@
 Concurrent Multiplayer Tic-Tac-Toe (5x5 Variant)
-For demo: https://youtu.be/aulFo3OEw-A
+For demo:
 This file provides important information for compiling, running, and testing the project. It explains the commands required to build and execute the server and clients, summarizes the rules of the Tic-Tac-Toe game variant, and clarifies the supported deployment mode. The goal is to guide users and evaluators in quickly setting up and understanding the system.  
 
 COMPILATION 
